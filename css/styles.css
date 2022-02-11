@@ -34,6 +34,8 @@ p {
     margin: 10rem auto 0;
     border: none;
     border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .card-body { padding-top: 5rem; }
 .card-footer {
